@@ -1,0 +1,13 @@
+1. Geared Motor with encoder that was used for vaccum robot.
+https://www.aliexpress.com/item/4000323708769.html?spm=a2g0o.detail.1000014.53.74fd3aa2lUVhxk&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.210123.0&scm_id=1007.33416.210123.0&scm-url=1007.33416.210123.0&pvid=f7f62b88-c7ae-46b7-bb77-26f7922af624&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.210123.0,pvid:f7f62b88-c7ae-46b7-bb77-26f7922af624,tpp_buckets:668%230%23131923%2326_668%23888%233325%2314_23416%230%23210123%239_23416%234721%2321967%23578_23416%234722%2321972%238_668%232846%238108%231977_668%232717%237563%23529_668%231000022185%231000066059%230_668%233422%2315392%23284_4452%230%23189847%230_4452%233474%2315675%23345_4452%234862%2322449%23102_4452%233098%239624%23936_4452%235108%2323442%23470_4452%233564%2316062%23195
+
+[rated voltage] DC 12V
+[No-load current] 100mA
+[Wheel idle speed] 84 rpm / min
+[Deceleration ratio]: 1:63
+[suitable voltage] 12V
+[One pair of weight] 316 grams (single weight 158 grams)
+ 
+It can be used for DIY power such as sweeping robots, tracking vehicles, obstacle avoidance vehicles, and smart cars.
+The motor rotates one turn, and the code wheel outputs 20 pulses. After being processed by the single chip microcomputer, the driving distance of the trolley and the turning angle of the trolley can be controlled.
+
