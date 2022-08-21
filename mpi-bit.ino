@@ -20,8 +20,8 @@ int ledTestFreq = 0;
 int BuzzerTestFreq = 0;
 
 //Wi-Fi config
-const char *ssid = "kjh948";
-const char *password = "jeeh19800413!";
+const char *ssid = "`";
+const char *password = "`";
 
 //WS2812 config
 const uint16_t PixelCount = 25;
